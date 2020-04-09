@@ -17,16 +17,16 @@ The software has been developed on MAC OS (Mojave) using Visual Studio for MAC c
 
 This requires first the installation of:
 
-   mono-mdk (mono development kit) that can be obtained via brew
+   * mono-mdk (mono development kit) that can be obtained via brew
 
 After that install:
 
-   Visual Studio for Mac community version 7.7.3 (build 43) on a suitable Mac
+   * Visual Studio for Mac community version 7.7.3 (build 43) on a suitable Mac
    with Fsharp language binding and .NET Core support and Mac development
 
 Then start Visual Studio and create a new project with name:
 
-   PopulationAnalysis
+   * PopulationAnalysis
 
 Create also a Solution with the same name PopulationAnalysis
 
