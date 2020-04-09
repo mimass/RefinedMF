@@ -52,7 +52,7 @@ Visual Studio. If run from command-line one needs to make sure to have libopenbl
 
 Package configuration can be found in: packages.config
 
-Note: The above provides the software for the Refined Mean Field analysis of
+**Note**: The above provides the software for the Refined Mean Field analysis of
 the gossip model. 
 The software used for the Java-based simulation of the orginal gossip protocol was 
 developed and is owned by Rena Bahkshi. We used this software to compare our
