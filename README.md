@@ -61,4 +61,4 @@ Since this software is not ours we do not include this software
 here. For the purpose of reproducibility of the analysis include the directory RESULTS, 
 where simulation traces of the refined mean field and Java simulator can be found for
 gossip models with 100 and 2500 nodes and with gmax equal to 3 and 9 respectively. This
-directory also includes the gnuplot script to visualise the results.
+directory also includes gnuplot scripts to visualise the results.
