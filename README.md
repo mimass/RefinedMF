@@ -9,7 +9,7 @@ This project provides the Fsharp source code files for the Refined Mean Field an
 The related publication is currently under review and will be added in the future.
 
 Disclaimer:
-This software is an experimental prototype developed as a first proof-of-concept and used to produce the analysis results for the related publication. It is available for the only purpose of reproducibility of the main results. It is not intended to provide a tool or a library for more general use. To that end, the tool should be thoroughly re-engineered and we hope to work on that in the future.
+This software is an experimental prototype developed as a first proof-of-concept and used by the authors for producing the analysis results for the related publication; consequently, it has not been developed according to general usability criteria. It is available for the only purpose of reproducibility of the main results. It is not intended to provide a tool or a library for more general use. To that end, the tool should be thoroughly re-engineered and we hope to work on that in the future.
 
 # Brief installation instructions
 
