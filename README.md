@@ -49,16 +49,16 @@ These are indicated in the information provided by NuGet.
 
 After this insert the provided FSharp source code files as provided in this repository.
 
-The main source file is: Program.fs
+   * The main source file is: Program.fs
 
-The gossip model can be found in the file: GossipModel.fs
+   * The gossip model can be found in the file: GossipModel.fs
 
 In GossipModel.fs also the kind of analysis, the parameter values and the paths to where to save the results have to be given.
 
 The set-up also requires Xcode to be installed and an open Terminal window if run from
 Visual Studio. If run from command-line one needs to make sure to have libopenblas.dll and libopenblas.dylib in the directory with the source code.
 
-Package configuration can be found in: packages.config
+   * Package configuration can be found in: packages.config
 
 **Note**: The above provides the software for the Refined Mean Field analysis of
 the gossip model. 
