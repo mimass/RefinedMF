@@ -5,7 +5,10 @@ Date: April 9, 2020
 
 Summary:
 This project provides the Fsharp source code files for the Refined Mean Field analysis of a model of the push-pull gossip protocol.
-The related pubblication is currently under review and will be added in a second moment.
+The related publication is currently under review and will be added in a second moment.
+
+Disclaimer:
+This software is an experimental prototype developed as a first proof-of-concept and used to produce the analysis results for the related publication. It is available for the only purpose of reproducibility of the main results. It was never intended to provide a tool or a library for more general use. To that end it should be completely re-engineered and we hope to work on that in the future.
 
 # Brief installation instructions
 
