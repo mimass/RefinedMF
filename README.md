@@ -58,6 +58,7 @@ The software used for the Java-based simulation of the orginal gossip protocol w
 developed and is owned by Rena Bahkshi. We used this software to compare our
 results with the original published results in the literature. 
 Since this software is not ours we do not include this software
-here. For the purpose of reproducibility of the analysis result we do include
-a simulation trace and a template GnuPlot script for visual presentation of
-the results.
+here. For the purpose of reproducibility of the analysis include the directory RESULTS, 
+where simulation traces of the refined mean field and Java simulator can be found for
+gossip models with 100 and 2500 nodes and with gmax equal to 3 and 9 respectively. This
+directory also includes the gnuplot script to visualise the results.
