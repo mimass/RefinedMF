@@ -32,19 +32,13 @@ Create also a Solution with the same name PopulationAnalysis
 
 Install the following packages via NuGet:
 
-   Deedle version 1.2.5 target framework net471
-
-   DiffSharp version 8.7.7 target framework net471
-
-   FSharp.Core version 4.3.3 target framework net451
-
-   FSharp.Quotations.Evaluator version 1.0.6 target framework net471
-
-   MathNet.Numerics version 4.7.0 target framework net471
-
-   MathNet.Numerics.FSharp version 4.7.0 target framework net471
-
-   PLplot version 5.13.7 target framework net471
+   * Deedle version 1.2.5 target framework net471
+   * DiffSharp version 8.7.7 target framework net471
+   * FSharp.Core version 4.3.3 target framework net451
+   * FSharp.Quotations.Evaluator version 1.0.6 target framework net471
+   * MathNet.Numerics version 4.7.0 target framework net471
+   * MathNet.Numerics.FSharp version 4.7.0 target framework net471
+   * PLplot version 5.13.7 target framework net471
 
 Some packages require additional software to be installed such as OpenBlas. 
 These are indicated in the information provided by NuGet.
