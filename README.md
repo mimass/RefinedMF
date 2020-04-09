@@ -13,7 +13,7 @@ The theoretical foundation on which this work has been based can be found in the
 * Nicolas Gast, Diego Latella, Mieke Massink. A refined mean field approximation of synchronous discrete-time population models. Perform. Evaluation 126: 1-21 (2018). https://doi.org/10.1016/j.peva.2018.05.002
 
 **Disclaimer**:
-This software is an experimental prototype developed as a first proof-of-concept and used by the authors for producing the analysis results for the related publication; consequently, it has not been developed according to general usability criteria. It is available for the only purpose of reproducibility of the main results. It is not intended to provide a tool or a library for more general use. To that end, the tool should be thoroughly re-engineered and we hope to work on that in the future.
+This software is an experimental prototype developed as a first proof-of-concept and used by the authors for producing the analysis results for the related publication; consequently, it has not been developed according to general usability criteria. It is available for the only purpose of reproducibility of the main research results. It is not intended to provide a tool or a library for more general use. To that end, the tool should be thoroughly re-engineered and we hope to work on that in the future.
 
 # Brief installation instructions
 
