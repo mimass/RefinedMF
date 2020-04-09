@@ -47,6 +47,10 @@ After this insert the provided FSharp source code files as provided in this repo
 
 The main source file is: Program.fs
 
+The gossip model can be found in the file: GossipModel.fs
+
+In GossipModel.fs also the kind of analysis, the parameter values and the paths to where to save the results have to be given.
+
 The set-up also requires Xcode to be installed and an open Terminal window if run from
 Visual Studio. If run from command-line one needs to make sure to have libopenblas.dll and libopenblas.dylib in the directory with the source code.
 
@@ -54,11 +58,11 @@ Package configuration can be found in: packages.config
 
 **Note**: The above provides the software for the Refined Mean Field analysis of
 the gossip model. 
-The software used for the Java-based simulation of the orginal gossip protocol was 
+The software used for the orginal Java-based simulation of the  gossip protocol was 
 developed and is owned by Rena Bahkshi. We used this software to compare our
 results with the original published results in the literature. 
-Since this software is not ours we do not include this software
-here. For the purpose of reproducibility of the analysis include the directory RESULTS, 
+Since this software is not ours we do not include it
+here. For the purpose of reproducibility of the analysis we include the directory RESULTS, 
 where simulation traces of the refined mean field and Java simulator can be found for
 gossip models with 100 and 2500 nodes and with gmax equal to 3 and 9 respectively. This
 directory also includes gnuplot scripts to visualise the results.
