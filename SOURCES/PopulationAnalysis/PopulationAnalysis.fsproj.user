@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'Default' ">
+    <StartAction>Project</StartAction>
+    <EnvironmentVariables>
+      <Variable name="LDFLAGS" value="-L/usr/local/opt/openblas/lib" />
+      <Variable name="CPPFLAGS" value="-I/usr/local/opt/openblas/include" />
+    </EnvironmentVariables>
+    <TargetRuntimeId>Mono 5.16.0.221</TargetRuntimeId>
+  </PropertyGroup>
+</Project>
